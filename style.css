@@ -1,0 +1,43 @@
+*{box-sizing: border-box;
+}
+
+#logo {
+    height: 100%;
+    vertical-align:middle;
+}
+
+#title {
+    display: inline;
+    line-height: 100px;
+    height: auto;
+    vertical-align: middle;
+}
+
+#task {
+    display: inline-block;
+    width: auto;
+    height: auto;
+    background-color: blue;
+    text-align: center;
+    border-style: solid;
+    border: 1px;
+    padding: 6px;
+    border-radius: 5px;
+    color: whitesmoke;
+}
+
+
+#section1 {
+    display: inline-block;
+    width: auto;
+    height: auto;
+    border-color: grey;
+    background-color: whitesmoke;
+    border-style: solid;
+    text-align: center;
+    border: 1px;
+    padding: 6px;
+    border-radius: 5px;
+    color: grey;
+}
+
