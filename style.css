@@ -17,7 +17,7 @@
     display: inline-block;
     width: auto;
     height: auto;
-    background-color: blue;
+    background-color: dodgerblue;
     text-align: center;
     border-style: solid;
     border: 1px;
@@ -40,4 +40,134 @@
     border-radius: 5px;
     color: grey;
 }
+
+#v {
+    height: 100%;
+    vertical-align:middle;
+}
+
+#w {
+    height: 100%;
+    vertical-align:middle;
+}
+
+
+#title1 {
+    display: inline;
+    line-height: 100px;
+    height: auto;
+    vertical-align: middle;
+}
+#title3 {
+    display: inline-block;
+    width: auto;
+    height: auto;
+    background-color:dodgerblue;
+    border-style: solid;
+    text-align: center;
+    border: 1px;
+    padding: 6px;
+    border-radius: 10px;
+    color:whitesmoke;
+    font-size:x-small;
+    margin: 5px;
+}
+
+#title4 {
+    display: inline-block;
+    width: auto;
+    height: auto;
+    background-color:blueviolet;
+    border-style: solid;
+    text-align: center;
+    border: 1px;
+    padding: 6px;
+    border-radius: 10px;
+    color:whitesmoke;
+    font-size:x-small;
+    margin: 5px;
+    
+}
+
+#title5 {
+    display: inline-block;
+    width: auto;
+    height: auto;
+    background-color:yellowgreen;
+    border-style: solid;
+    text-align: center;
+    border: 1px;
+    padding: 6px;
+    border-radius: 10px;
+    color:whitesmoke;
+    font-size:x-small;
+    margin: 5px;
+    
+}
+
+#title6 {
+    display: inline-block;
+    width: auto;
+    height: auto;
+    background-color:orange;
+    border-style: solid;
+    text-align: center;
+    border: 1px;
+    padding: 6px;
+    border-radius: 10px;
+    color:whitesmoke;
+    font-size:x-small;
+    margin: 5px;
+    
+}
+
+#title8 {
+    display: inline-block;
+    width: auto;
+    height: auto;
+    background-color:plum;
+    border-style: solid;
+    text-align: center;
+    border: 1px;
+    padding: 6px;
+    border-radius: 10px;
+    color:whitesmoke;
+    font-size:x-small;
+    margin: 5px;
+    
+}
+
+#title9 {
+    display: inline-block;
+    width: auto;
+    height: auto;
+    background-color:olivedrab;
+    border-style: solid;
+    text-align: center;
+    border: 1px;
+    padding: 6px;
+    border-radius: 10px;
+    color:whitesmoke;
+    font-size:x-small;
+    margin: 5px;
+    
+}
+
+#title10 {
+    display: inline-block;
+    width: auto;
+    height: auto;
+    background-color:dodgerblue;
+    border-style: solid;
+    text-align: center;
+    border: 1px;
+    padding: 6px;
+    border-radius: 10px;
+    color:whitesmoke;
+    font-size:x-small;
+    margin: 5px;
+    
+}
+
+
 
